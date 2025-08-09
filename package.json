@@ -1,0 +1,24 @@
+{
+  "name": "wukongim-mintlify-docs",
+  "version": "1.0.0",
+  "description": "WuKongIM Documentation powered by Mintlify",
+  "keywords": [
+    "WuKongIM",
+    "IM",
+    "instant messaging",
+    "documentation",
+    "mintlify"
+  ],
+  "scripts": {
+    "dev": "mint dev",
+    "build": "mint build",
+    "preview": "mint preview"
+  },
+  "devDependencies": {
+    "mint": "^4.0.0"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "license": "ISC"
+}
